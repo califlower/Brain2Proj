@@ -1,0 +1,277 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AA_sum	weights/WeightReadout.py	/^AA_sum = np.nansum(AA_values[0:n_e,0:n_e], axis = 0)\/n_e$/;"	kind:variable	line:157
+AA_values	weights/WeightReadout.py	/^        AA_values = np.copy(values)$/;"	kind:variable	line:111
+AH_values	weights/WeightReadout.py	/^        AH_values = np.copy(values)$/;"	kind:variable	line:117
+BB_values	weights/WeightReadout.py	/^        BB_values = np.copy(values)$/;"	kind:variable	line:113
+BH_values	weights/WeightReadout.py	/^        BH_values = np.copy(values)$/;"	kind:variable	line:119
+CC_values	weights/WeightReadout.py	/^        CC_values = np.copy(values)$/;"	kind:variable	line:115
+CH_values	weights/WeightReadout.py	/^        CH_values = np.copy(values)$/;"	kind:variable	line:121
+Diehl&Cook_MNIST_evaluation.py	Diehl&Cook_MNIST_evaluation.py	1;"	kind:file	line:1
+Diehl&Cook_MNIST_random_conn_generator.py	Diehl&Cook_MNIST_random_conn_generator.py	1;"	kind:file	line:1
+Diehl&Cook_spiking_MNIST_Brian2.py	Diehl&Cook_spiking_MNIST_Brian2.py	1;"	kind:file	line:1
+HA_values	weights/WeightReadout.py	/^        HA_values = np.copy(values)$/;"	kind:variable	line:123
+HB_values	weights/WeightReadout.py	/^        HB_values = np.copy(values)$/;"	kind:variable	line:125
+HC_values	weights/WeightReadout.py	/^        HC_values = np.copy(values)$/;"	kind:variable	line:127
+IPython	venv/bin/isympy	/^            import IPython$/;"	kind:namespace	line:323
+MNIST_data_path	Diehl&Cook_MNIST_evaluation.py	/^MNIST_data_path = '.\/'$/;"	kind:variable	line:81
+MNIST_data_path	Diehl&Cook_spiking_MNIST_Brian2.py	/^MNIST_data_path = ''$/;"	kind:variable	line:20
+OptionParser	venv/bin/isympy	/^    from optparse import OptionParser$/;"	kind:namespace	line:192
+STDP_offset	Diehl&Cook_spiking_MNIST_Brian2.py	/^STDP_offset = 0.4$/;"	kind:variable	line:288
+WeightReadout.py	weights/WeightReadout.py	1;"	kind:file	line:1
+XA_sum	weights/WeightReadout.py	/^XA_sum = np.nansum(XA_values[0:n_input,0:n_e], axis = 0)\/n_e$/;"	kind:variable	line:156
+XA_values	weights/WeightReadout.py	/^        XA_values = np.copy(values)#.transpose()$/;"	kind:variable	line:105
+YB_values	weights/WeightReadout.py	/^        YB_values = np.copy(values)#.transpose()$/;"	kind:variable	line:107
+ZC_values	weights/WeightReadout.py	/^        ZC_values = np.copy(values)#.transpose()$/;"	kind:variable	line:109
+assignments	Diehl&Cook_MNIST_evaluation.py	/^assignments = get_new_assignments(training_result_monitor[start_time_training:end_time_training], $/;"	kind:variable	line:110
+assignments	Diehl&Cook_spiking_MNIST_Brian2.py	/^        assignments = get_new_assignments(result_monitor[:], input_numbers[j-update_interval : j])$/;"	kind:variable	line:458
+assignments	Diehl&Cook_spiking_MNIST_Brian2.py	/^assignments = np.zeros(n_e)$/;"	kind:variable	line:432
+b2	Diehl&Cook_spiking_MNIST_Brian2.py	/^import brian2 as b2$/;"	kind:namespace	line:16
+black	weights/WeightReadout.py	/^black   = '#000000'    # $/;"	kind:variable	line:49
+bright_grey	weights/WeightReadout.py	/^bright_grey = '#f4f4f4'    # $/;"	kind:variable	line:46
+cbar	weights/WeightReadout.py	/^    cbar = colorbar(im)$/;"	kind:variable	line:98
+chosenCmap	weights/WeightReadout.py	/^chosenCmap = cm.get_cmap('hot_r') #cm.get_cmap('gist_ncar')$/;"	kind:variable	line:6
+cm	weights/WeightReadout.py	/^import matplotlib.cm as cm$/;"	kind:namespace	line:3
+cmap	Diehl&Cook_MNIST_evaluation.py	/^import matplotlib.cm as cmap$/;"	kind:namespace	line:9
+cmap	Diehl&Cook_spiking_MNIST_Brian2.py	/^import matplotlib.cm as cmap$/;"	kind:namespace	line:9
+color	weights/WeightReadout.py	/^                color = 'k')$/;"	kind:variable	line:165
+computePopVector	Diehl&Cook_MNIST_random_conn_generator.py	/^def computePopVector(popArray):$/;"	kind:function	line:16
+computePopVector	weights/WeightReadout.py	/^def computePopVector(popArray):$/;"	kind:function	line:16
+connName	Diehl&Cook_spiking_MNIST_Brian2.py	/^        connName = name+conn_type[0]+name+conn_type[1]$/;"	kind:variable	line:363
+connName	Diehl&Cook_spiking_MNIST_Brian2.py	/^        connName = name[0] + connType[0] + name[1] + connType[1]$/;"	kind:variable	line:399
+connection_parameters	weights/WeightReadout.py	/^    connection_parameters = readout$/;"	kind:variable	line:61
+connections	Diehl&Cook_spiking_MNIST_Brian2.py	/^connections = {}$/;"	kind:variable	line:335
+correct	Diehl&Cook_MNIST_evaluation.py	/^    correct = len(np.where(difference == 0)[0])$/;"	kind:variable	line:125
+counter	Diehl&Cook_MNIST_evaluation.py	/^counter = 0 $/;"	kind:variable	line:113
+cpuinfo	venv/bin/cpuinfo	1;"	kind:file	line:1
+create_weights	Diehl&Cook_MNIST_random_conn_generator.py	/^def create_weights():$/;"	kind:function	line:37
+current_spike_count	Diehl&Cook_spiking_MNIST_Brian2.py	/^    current_spike_count = np.asarray(spike_counters['Ae'].count[:]) - previous_spike_count$/;"	kind:variable	line:465
+data_path	Diehl&Cook_MNIST_evaluation.py	/^data_path = '.\/activity\/'$/;"	kind:variable	line:82
+data_path	Diehl&Cook_spiking_MNIST_Brian2.py	/^data_path = '.\/'$/;"	kind:variable	line:217
+delay	Diehl&Cook_spiking_MNIST_Brian2.py	/^delay = {}$/;"	kind:variable	line:267
+deltaDelay	Diehl&Cook_spiking_MNIST_Brian2.py	/^        deltaDelay = maxDelay - minDelay$/;"	kind:variable	line:414
+difference	Diehl&Cook_MNIST_evaluation.py	/^    difference = test_results[0,:] - testing_input_numbers[start_time:end_time]$/;"	kind:variable	line:124
+division	venv/bin/f2py	/^from __future__ import division, print_function$/;"	kind:namespace	line:3
+do_plot_performance	Diehl&Cook_spiking_MNIST_Brian2.py	/^    do_plot_performance = False$/;"	kind:variable	line:222
+do_plot_performance	Diehl&Cook_spiking_MNIST_Brian2.py	/^    do_plot_performance = True$/;"	kind:variable	line:230
+easy_install	venv/bin/easy_install	1;"	kind:file	line:1
+easy_install-3.6	venv/bin/easy_install-3.6	1;"	kind:file	line:1
+ee_STDP_on	Diehl&Cook_spiking_MNIST_Brian2.py	/^    ee_STDP_on = False$/;"	kind:variable	line:224
+ee_STDP_on	Diehl&Cook_spiking_MNIST_Brian2.py	/^    ee_STDP_on = True$/;"	kind:variable	line:235
+end	Diehl&Cook_spiking_MNIST_Brian2.py	/^end = time.time()$/;"	kind:variable	line:202
+end	Diehl&Cook_spiking_MNIST_Brian2.py	/^end = time.time()$/;"	kind:variable	line:207
+end_time	Diehl&Cook_MNIST_evaluation.py	/^    end_time = min(end_time_testing, 10000*(counter+1))$/;"	kind:variable	line:117
+end_time_testing	Diehl&Cook_MNIST_evaluation.py	/^end_time_testing = int(testing_ending)$/;"	kind:variable	line:88
+end_time_training	Diehl&Cook_MNIST_evaluation.py	/^end_time_training = int(training_ending)$/;"	kind:variable	line:86
+ending	Diehl&Cook_MNIST_evaluation.py	/^ending = ''$/;"	kind:variable	line:92
+ending	Diehl&Cook_spiking_MNIST_Brian2.py	/^ending = ''$/;"	kind:variable	line:238
+ending	weights/WeightReadout.py	/^ending = ''$/;"	kind:variable	line:5
+exp_ee_post	Diehl&Cook_spiking_MNIST_Brian2.py	/^exp_ee_post = exp_ee_pre$/;"	kind:variable	line:287
+exp_ee_pre	Diehl&Cook_spiking_MNIST_Brian2.py	/^exp_ee_pre = 0.2$/;"	kind:variable	line:286
+f2py	venv/bin/f2py	1;"	kind:file	line:1
+fi	weights/WeightReadout.py	/^    fi = figure()$/;"	kind:variable	line:78
+fi	weights/WeightReadout.py	/^fi = figure()$/;"	kind:variable	line:159
+fig_num	Diehl&Cook_spiking_MNIST_Brian2.py	/^fig_num = 1$/;"	kind:variable	line:332
+get_2d_input_weights	Diehl&Cook_spiking_MNIST_Brian2.py	/^def get_2d_input_weights():$/;"	kind:function	line:110
+get_2d_input_weights	weights/WeightReadout.py	/^def get_2d_input_weights():$/;"	kind:function	line:22
+get_current_performance	Diehl&Cook_spiking_MNIST_Brian2.py	/^def get_current_performance(performance, current_example_num):$/;"	kind:function	line:145
+get_labeled_data	Diehl&Cook_MNIST_evaluation.py	/^def get_labeled_data(picklename, bTrain = True):$/;"	kind:function	line:21
+get_labeled_data	Diehl&Cook_spiking_MNIST_Brian2.py	/^def get_labeled_data(picklename, bTrain = True):$/;"	kind:function	line:25
+get_matrix_from_file	Diehl&Cook_spiking_MNIST_Brian2.py	/^def get_matrix_from_file(fileName):$/;"	kind:function	line:63
+get_new_assignments	Diehl&Cook_MNIST_evaluation.py	/^def get_new_assignments(result_monitor, input_numbers):$/;"	kind:function	line:66
+get_new_assignments	Diehl&Cook_spiking_MNIST_Brian2.py	/^def get_new_assignments(result_monitor, input_numbers):$/;"	kind:function	line:182
+get_recognized_number_ranking	Diehl&Cook_MNIST_evaluation.py	/^def get_recognized_number_ranking(assignments, spike_rates):$/;"	kind:function	line:57
+get_recognized_number_ranking	Diehl&Cook_spiking_MNIST_Brian2.py	/^def get_recognized_number_ranking(assignments, spike_rates):$/;"	kind:function	line:173
+green	weights/WeightReadout.py	/^green   = '#00ff00'  # $/;"	kind:variable	line:48
+i	venv/bin/f2py	/^        i = sys.argv.index("--" + mode)$/;"	kind:variable	line:9
+im	weights/WeightReadout.py	/^    im = imshow(values, interpolation="nearest", cmap = chosenCmap, aspect='auto')  # copper_r   autumn_r  Greys  my_cmap  gist_rainbow$/;"	kind:variable	line:97
+incorrect	Diehl&Cook_MNIST_evaluation.py	/^    incorrect = np.where(difference != 0)[0]$/;"	kind:variable	line:126
+init_session	venv/bin/isympy	/^    from sympy.interactive import init_session$/;"	kind:namespace	line:353
+input_conn_names	Diehl&Cook_spiking_MNIST_Brian2.py	/^input_conn_names = ['ee_input']$/;"	kind:variable	line:272
+input_connection_names	Diehl&Cook_spiking_MNIST_Brian2.py	/^input_connection_names = ['XA']$/;"	kind:variable	line:270
+input_groups	Diehl&Cook_spiking_MNIST_Brian2.py	/^input_groups = {}$/;"	kind:variable	line:334
+input_intensity	Diehl&Cook_spiking_MNIST_Brian2.py	/^        input_intensity = start_input_intensity$/;"	kind:variable	line:488
+input_intensity	Diehl&Cook_spiking_MNIST_Brian2.py	/^input_intensity = 2.$/;"	kind:variable	line:277
+input_numbers	Diehl&Cook_spiking_MNIST_Brian2.py	/^input_numbers = [0] * num_examples$/;"	kind:variable	line:433
+input_population_names	Diehl&Cook_spiking_MNIST_Brian2.py	/^input_population_names = ['X']$/;"	kind:variable	line:268
+isympy	venv/bin/isympy	1;"	kind:file	line:1
+isympy_dir	venv/bin/isympy	/^isympy_dir = os.path.dirname(isympy_path)$/;"	kind:variable	line:182
+isympy_path	venv/bin/isympy	/^isympy_path = os.path.abspath(__file__)$/;"	kind:variable	line:181
+j	Diehl&Cook_spiking_MNIST_Brian2.py	/^j = 0$/;"	kind:variable	line:443
+load_entry_point	venv/bin/cpuinfo	/^from pkg_resources import load_entry_point$/;"	kind:namespace	line:6
+main	venv/bin/easy_install	/^from setuptools.command.easy_install import main$/;"	kind:namespace	line:7
+main	venv/bin/easy_install-3.6	/^from setuptools.command.easy_install import main$/;"	kind:namespace	line:7
+main	venv/bin/f2py	/^    from f2py2e import main$/;"	kind:namespace	line:19
+main	venv/bin/f2py	/^    from f2py2e import main$/;"	kind:namespace	line:22
+main	venv/bin/f2py	/^    from numpy.f2py import main$/;"	kind:namespace	line:24
+main	venv/bin/isympy	/^def main():$/;"	kind:function	line:191
+main	venv/bin/pip	/^from pip import main$/;"	kind:namespace	line:7
+main	venv/bin/pip3	/^from pip import main$/;"	kind:namespace	line:7
+main	venv/bin/pip3.6	/^from pip import main$/;"	kind:namespace	line:7
+matplotlib	Diehl&Cook_MNIST_evaluation.py	/^import matplotlib$/;"	kind:namespace	line:8
+matplotlib	Diehl&Cook_MNIST_evaluation.py	/^import matplotlib.cm as cmap$/;"	kind:namespace	line:9
+matplotlib	Diehl&Cook_spiking_MNIST_Brian2.py	/^import matplotlib.cm as cmap$/;"	kind:namespace	line:9
+matplotlib	weights/WeightReadout.py	/^import matplotlib.cm as cm$/;"	kind:namespace	line:3
+maxDelay	Diehl&Cook_spiking_MNIST_Brian2.py	/^        maxDelay = delay[connType][1]$/;"	kind:variable	line:413
+minDelay	Diehl&Cook_spiking_MNIST_Brian2.py	/^        minDelay = delay[connType][0]$/;"	kind:variable	line:412
+model	Diehl&Cook_spiking_MNIST_Brian2.py	/^        model = 'w : 1'$/;"	kind:variable	line:365
+model	Diehl&Cook_spiking_MNIST_Brian2.py	/^        model = 'w : 1'$/;"	kind:variable	line:401
+my_cmap	weights/WeightReadout.py	/^my_cmap = matplotlib.colors.LinearSegmentedColormap.from_list('own2',[bright_grey,black])$/;"	kind:variable	line:50
+n_e	Diehl&Cook_MNIST_evaluation.py	/^n_e = 400$/;"	kind:variable	line:90
+n_e	Diehl&Cook_spiking_MNIST_Brian2.py	/^n_e = 400$/;"	kind:variable	line:240
+n_e	weights/WeightReadout.py	/^n_e = 400$/;"	kind:variable	line:53
+n_i	Diehl&Cook_spiking_MNIST_Brian2.py	/^n_i = n_e$/;"	kind:variable	line:241
+n_input	Diehl&Cook_MNIST_evaluation.py	/^n_input = 784$/;"	kind:variable	line:91
+n_input	Diehl&Cook_spiking_MNIST_Brian2.py	/^n_input = 784$/;"	kind:variable	line:239
+n_input	weights/WeightReadout.py	/^n_input = 784$/;"	kind:variable	line:52
+net	Diehl&Cook_spiking_MNIST_Brian2.py	/^net = Network()$/;"	kind:variable	line:425
+neuron_groups	Diehl&Cook_spiking_MNIST_Brian2.py	/^neuron_groups = {}$/;"	kind:variable	line:333
+no_ipython	venv/bin/isympy	/^                from sympy.interactive.session import no_ipython$/;"	kind:namespace	line:327
+normalize_weights	Diehl&Cook_spiking_MNIST_Brian2.py	/^def normalize_weights():$/;"	kind:function	line:96
+np	Diehl&Cook_MNIST_evaluation.py	/^import numpy as np$/;"	kind:namespace	line:7
+np	Diehl&Cook_MNIST_random_conn_generator.py	/^import numpy as np$/;"	kind:namespace	line:8
+np	Diehl&Cook_spiking_MNIST_Brian2.py	/^import numpy as np$/;"	kind:namespace	line:8
+np	weights/WeightReadout.py	/^import numpy as np$/;"	kind:namespace	line:1
+nu_ee_post	Diehl&Cook_spiking_MNIST_Brian2.py	/^nu_ee_post = 0.01       # learning rate$/;"	kind:variable	line:284
+nu_ee_pre	Diehl&Cook_spiking_MNIST_Brian2.py	/^nu_ee_pre =  0.0001      # learning rate$/;"	kind:variable	line:283
+num_examples	Diehl&Cook_spiking_MNIST_Brian2.py	/^    num_examples = 10000 * 1$/;"	kind:variable	line:220
+num_examples	Diehl&Cook_spiking_MNIST_Brian2.py	/^    num_examples = 60000 * 3$/;"	kind:variable	line:228
+num_tests	Diehl&Cook_MNIST_evaluation.py	/^num_tests = end_time_testing \/ 10000$/;"	kind:variable	line:114
+offset	Diehl&Cook_spiking_MNIST_Brian2.py	/^offset = 20.0*b2.mV$/;"	kind:variable	line:296
+os	Diehl&Cook_MNIST_evaluation.py	/^import os.path$/;"	kind:namespace	line:11
+os	Diehl&Cook_spiking_MNIST_Brian2.py	/^import os.path$/;"	kind:namespace	line:11
+os	venv/bin/f2py	/^import os$/;"	kind:namespace	line:5
+os	venv/bin/isympy	/^import os$/;"	kind:namespace	line:176
+outputNumbers	Diehl&Cook_spiking_MNIST_Brian2.py	/^outputNumbers = np.zeros((num_examples, 10))$/;"	kind:variable	line:434
+path	Diehl&Cook_MNIST_evaluation.py	/^import os.path$/;"	kind:namespace	line:11
+path	Diehl&Cook_spiking_MNIST_Brian2.py	/^import os.path$/;"	kind:namespace	line:11
+pickle	Diehl&Cook_MNIST_evaluation.py	/^import cPickle as pickle$/;"	kind:namespace	line:13
+pickle	Diehl&Cook_spiking_MNIST_Brian2.py	/^import cPickle as pickle$/;"	kind:namespace	line:13
+pip	venv/bin/pip	1;"	kind:file	line:1
+pip3	venv/bin/pip3	1;"	kind:file	line:1
+pip3.6	venv/bin/pip3.6	1;"	kind:file	line:1
+plot_2d_input_weights	Diehl&Cook_spiking_MNIST_Brian2.py	/^def plot_2d_input_weights():$/;"	kind:function	line:129
+plot_2d_input_weights	weights/WeightReadout.py	/^def plot_2d_input_weights():$/;"	kind:function	line:36
+plot_performance	Diehl&Cook_spiking_MNIST_Brian2.py	/^def plot_performance(fig_num):$/;"	kind:function	line:154
+pop_values	Diehl&Cook_spiking_MNIST_Brian2.py	/^pop_values = [0,0,0]$/;"	kind:variable	line:391
+population_names	Diehl&Cook_spiking_MNIST_Brian2.py	/^population_names = ['A']$/;"	kind:variable	line:269
+post	Diehl&Cook_spiking_MNIST_Brian2.py	/^                post = eqs_stdp_post_ee$/;"	kind:variable	line:372
+post	Diehl&Cook_spiking_MNIST_Brian2.py	/^            post = eqs_stdp_post_ee$/;"	kind:variable	line:408
+post	Diehl&Cook_spiking_MNIST_Brian2.py	/^        post = ''$/;"	kind:variable	line:367
+post	Diehl&Cook_spiking_MNIST_Brian2.py	/^        post = ''$/;"	kind:variable	line:403
+previous_spike_count	Diehl&Cook_spiking_MNIST_Brian2.py	/^    previous_spike_count = np.copy(spike_counters['Ae'].count[:])$/;"	kind:variable	line:466
+previous_spike_count	Diehl&Cook_spiking_MNIST_Brian2.py	/^previous_spike_count = np.zeros(n_e)$/;"	kind:variable	line:431
+print_function	venv/bin/f2py	/^from __future__ import division, print_function$/;"	kind:namespace	line:3
+pylab	Diehl&Cook_MNIST_random_conn_generator.py	/^import pylab$/;"	kind:namespace	line:9
+randomDelay	Diehl&Cook_MNIST_random_conn_generator.py	/^def randomDelay(minDelay, maxDelay):$/;"	kind:function	line:12
+rate_monitors	Diehl&Cook_spiking_MNIST_Brian2.py	/^rate_monitors = {}$/;"	kind:variable	line:336
+re	venv/bin/cpuinfo	/^import re$/;"	kind:namespace	line:4
+re	venv/bin/easy_install	/^import re$/;"	kind:namespace	line:4
+re	venv/bin/easy_install-3.6	/^import re$/;"	kind:namespace	line:4
+re	venv/bin/pip	/^import re$/;"	kind:namespace	line:4
+re	venv/bin/pip3	/^import re$/;"	kind:namespace	line:4
+re	venv/bin/pip3.6	/^import re$/;"	kind:namespace	line:4
+readout	weights/WeightReadout.py	/^    readout = np.load(name + '.npy')$/;"	kind:variable	line:56
+readoutnames	weights/WeightReadout.py	/^readoutnames = []$/;"	kind:variable	line:8
+record_spikes	Diehl&Cook_spiking_MNIST_Brian2.py	/^        record_spikes = True$/;"	kind:variable	line:232
+record_spikes	Diehl&Cook_spiking_MNIST_Brian2.py	/^        record_spikes = True$/;"	kind:variable	line:234
+record_spikes	Diehl&Cook_spiking_MNIST_Brian2.py	/^    record_spikes = True$/;"	kind:variable	line:223
+recurrent_conn_names	Diehl&Cook_spiking_MNIST_Brian2.py	/^recurrent_conn_names = ['ei', 'ie']$/;"	kind:variable	line:273
+red	weights/WeightReadout.py	/^red   = '#ff0000'  # $/;"	kind:variable	line:47
+refrac_e	Diehl&Cook_spiking_MNIST_Brian2.py	/^refrac_e = 5. * b2.ms$/;"	kind:variable	line:263
+refrac_i	Diehl&Cook_spiking_MNIST_Brian2.py	/^refrac_i = 2. * b2.ms$/;"	kind:variable	line:264
+resting_time	Diehl&Cook_spiking_MNIST_Brian2.py	/^resting_time = 0.15 * b2.second$/;"	kind:variable	line:243
+result_monitor	Diehl&Cook_spiking_MNIST_Brian2.py	/^result_monitor = np.zeros((update_interval,n_e))$/;"	kind:variable	line:339
+runtime	Diehl&Cook_spiking_MNIST_Brian2.py	/^runtime = num_examples * (single_example_time + resting_time)$/;"	kind:variable	line:244
+save_connections	Diehl&Cook_spiking_MNIST_Brian2.py	/^def save_connections(ending = ''):$/;"	kind:function	line:84
+save_connections_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    save_connections_interval = 10000$/;"	kind:variable	line:252
+save_connections_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    save_connections_interval = 10000$/;"	kind:variable	line:254
+save_conns	Diehl&Cook_spiking_MNIST_Brian2.py	/^save_conns = ['XeAe']$/;"	kind:variable	line:271
+save_theta	Diehl&Cook_spiking_MNIST_Brian2.py	/^def save_theta(ending = ''):$/;"	kind:function	line:91
+scipy	Diehl&Cook_MNIST_evaluation.py	/^import scipy $/;"	kind:namespace	line:12
+scipy	Diehl&Cook_MNIST_random_conn_generator.py	/^import scipy.ndimage as sp$/;"	kind:namespace	line:7
+scipy	Diehl&Cook_spiking_MNIST_Brian2.py	/^import scipy$/;"	kind:namespace	line:12
+single_example_time	Diehl&Cook_spiking_MNIST_Brian2.py	/^single_example_time =   0.35 * b2.second #$/;"	kind:variable	line:242
+sp	Diehl&Cook_MNIST_random_conn_generator.py	/^import scipy.ndimage as sp$/;"	kind:namespace	line:7
+sparsenMatrix	Diehl&Cook_MNIST_random_conn_generator.py	/^def sparsenMatrix(baseMatrix, pConn):$/;"	kind:function	line:23
+spike_counters	Diehl&Cook_spiking_MNIST_Brian2.py	/^spike_counters = {}$/;"	kind:variable	line:338
+spike_monitors	Diehl&Cook_spiking_MNIST_Brian2.py	/^spike_monitors = {}$/;"	kind:variable	line:337
+spike_rates	Diehl&Cook_spiking_MNIST_Brian2.py	/^            spike_rates = testing['x'][j%10000,:,:].reshape((n_input)) \/ 8. *  input_intensity$/;"	kind:variable	line:447
+spike_rates	Diehl&Cook_spiking_MNIST_Brian2.py	/^            spike_rates = training['x'][j%60000,:,:].reshape((n_input)) \/ 8. *  input_intensity$/;"	kind:variable	line:449
+spike_rates	Diehl&Cook_spiking_MNIST_Brian2.py	/^        spike_rates = training['x'][j%60000,:,:].reshape((n_input)) \/ 8. *  input_intensity$/;"	kind:variable	line:452
+start	Diehl&Cook_spiking_MNIST_Brian2.py	/^start = time.time()$/;"	kind:variable	line:200
+start	Diehl&Cook_spiking_MNIST_Brian2.py	/^start = time.time()$/;"	kind:variable	line:205
+start_input_intensity	Diehl&Cook_spiking_MNIST_Brian2.py	/^start_input_intensity = input_intensity$/;"	kind:variable	line:278
+start_time	Diehl&Cook_MNIST_evaluation.py	/^    start_time = 10000*counter$/;"	kind:variable	line:118
+start_time_testing	Diehl&Cook_MNIST_evaluation.py	/^start_time_testing = 0$/;"	kind:variable	line:87
+start_time_training	Diehl&Cook_MNIST_evaluation.py	/^start_time_training = 0$/;"	kind:variable	line:85
+sum_accurracy	Diehl&Cook_MNIST_evaluation.py	/^sum_accurracy = [0] * num_tests$/;"	kind:variable	line:115
+sympy	venv/bin/isympy	/^        import sympy$/;"	kind:namespace	line:207
+sympy_dir	venv/bin/isympy	/^sympy_dir = os.path.join(sympy_top, 'sympy')$/;"	kind:variable	line:184
+sympy_top	venv/bin/isympy	/^sympy_top = os.path.split(isympy_dir)[0]$/;"	kind:variable	line:183
+sys	venv/bin/cpuinfo	/^import sys$/;"	kind:namespace	line:5
+sys	venv/bin/easy_install	/^import sys$/;"	kind:namespace	line:5
+sys	venv/bin/easy_install-3.6	/^import sys$/;"	kind:namespace	line:5
+sys	venv/bin/f2py	/^import sys$/;"	kind:namespace	line:6
+sys	venv/bin/isympy	/^import sys$/;"	kind:namespace	line:177
+sys	venv/bin/pip	/^import sys$/;"	kind:namespace	line:5
+sys	venv/bin/pip3	/^import sys$/;"	kind:namespace	line:5
+sys	venv/bin/pip3.6	/^import sys$/;"	kind:namespace	line:5
+tc_post_1_ee	Diehl&Cook_spiking_MNIST_Brian2.py	/^tc_post_1_ee = 20*b2.ms$/;"	kind:variable	line:281
+tc_post_2_ee	Diehl&Cook_spiking_MNIST_Brian2.py	/^tc_post_2_ee = 40*b2.ms$/;"	kind:variable	line:282
+tc_pre_ee	Diehl&Cook_spiking_MNIST_Brian2.py	/^tc_pre_ee = 20*b2.ms$/;"	kind:variable	line:280
+tc_theta	Diehl&Cook_spiking_MNIST_Brian2.py	/^    tc_theta = 1e7 * b2.ms$/;"	kind:variable	line:293
+test_mode	Diehl&Cook_spiking_MNIST_Brian2.py	/^test_mode = True$/;"	kind:variable	line:214
+test_results	Diehl&Cook_MNIST_evaluation.py	/^    test_results = np.zeros((10, end_time-start_time))$/;"	kind:variable	line:119
+test_results	Diehl&Cook_MNIST_evaluation.py	/^test_results = np.zeros((10, end_time_testing-start_time_testing))$/;"	kind:variable	line:106
+test_results_fixed	Diehl&Cook_MNIST_evaluation.py	/^test_results_fixed = np.zeros((10, end_time_testing-start_time_testing))$/;"	kind:variable	line:109
+test_results_max	Diehl&Cook_MNIST_evaluation.py	/^test_results_max = np.zeros((10, end_time_testing-start_time_testing))$/;"	kind:variable	line:107
+test_results_top	Diehl&Cook_MNIST_evaluation.py	/^test_results_top = np.zeros((10, end_time_testing-start_time_testing))$/;"	kind:variable	line:108
+testing	Diehl&Cook_MNIST_evaluation.py	/^testing = get_labeled_data(MNIST_data_path + 'testing', bTrain = False)$/;"	kind:variable	line:96
+testing	Diehl&Cook_spiking_MNIST_Brian2.py	/^testing = get_labeled_data(MNIST_data_path + 'testing', bTrain = False)$/;"	kind:variable	line:206
+testing_ending	Diehl&Cook_MNIST_evaluation.py	/^testing_ending = '10000'$/;"	kind:variable	line:84
+testing_input_numbers	Diehl&Cook_MNIST_evaluation.py	/^testing_input_numbers = np.load(data_path + 'inputNumbers' + testing_ending + '.npy')$/;"	kind:variable	line:102
+testing_result_monitor	Diehl&Cook_MNIST_evaluation.py	/^testing_result_monitor = np.load(data_path + 'resultPopVecs' + testing_ending + '.npy')$/;"	kind:variable	line:101
+theta_plus_e	Diehl&Cook_spiking_MNIST_Brian2.py	/^    theta_plus_e = 0.05 * b2.mV$/;"	kind:variable	line:294
+time	Diehl&Cook_MNIST_evaluation.py	/^import time$/;"	kind:namespace	line:10
+time	Diehl&Cook_spiking_MNIST_Brian2.py	/^import time$/;"	kind:namespace	line:10
+training	Diehl&Cook_MNIST_evaluation.py	/^training = get_labeled_data(MNIST_data_path + 'training')$/;"	kind:variable	line:95
+training	Diehl&Cook_spiking_MNIST_Brian2.py	/^training = get_labeled_data(MNIST_data_path + 'training')$/;"	kind:variable	line:201
+training_ending	Diehl&Cook_MNIST_evaluation.py	/^training_ending = '10000'$/;"	kind:variable	line:83
+training_input_numbers	Diehl&Cook_MNIST_evaluation.py	/^training_input_numbers = np.load(data_path + 'inputNumbers' + training_ending + '.npy')$/;"	kind:variable	line:100
+training_result_monitor	Diehl&Cook_MNIST_evaluation.py	/^training_result_monitor = np.load(data_path + 'resultPopVecs' + training_ending + ending + '.npy')$/;"	kind:variable	line:99
+unpack	Diehl&Cook_MNIST_evaluation.py	/^from struct import unpack$/;"	kind:namespace	line:14
+unpack	Diehl&Cook_spiking_MNIST_Brian2.py	/^from struct import unpack$/;"	kind:namespace	line:14
+update_2d_input_weights	Diehl&Cook_spiking_MNIST_Brian2.py	/^def update_2d_input_weights(im, fig):$/;"	kind:function	line:139
+update_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    update_interval = 10000$/;"	kind:variable	line:249
+update_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    update_interval = 10000$/;"	kind:variable	line:255
+update_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    update_interval = num_examples$/;"	kind:variable	line:225
+update_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    update_interval = num_examples$/;"	kind:variable	line:246
+update_performance_plot	Diehl&Cook_spiking_MNIST_Brian2.py	/^def update_performance_plot(im, performance, current_example_num, fig):$/;"	kind:function	line:167
+use_testing_set	Diehl&Cook_spiking_MNIST_Brian2.py	/^    use_testing_set = False$/;"	kind:variable	line:229
+use_testing_set	Diehl&Cook_spiking_MNIST_Brian2.py	/^    use_testing_set = True$/;"	kind:variable	line:221
+v_reset_e	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_reset_e = -65. * b2.mV$/;"	kind:variable	line:259
+v_reset_i	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_reset_i = -45. * b2.mV$/;"	kind:variable	line:260
+v_rest_e	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_rest_e = -65. * b2.mV$/;"	kind:variable	line:257
+v_rest_i	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_rest_i = -60. * b2.mV$/;"	kind:variable	line:258
+v_thresh_e	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_thresh_e = -52. * b2.mV$/;"	kind:variable	line:261
+v_thresh_e_str	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_thresh_e_str = '(v>(theta - offset + v_thresh_e)) and (timer>refrac_e)'$/;"	kind:variable	line:297
+v_thresh_i	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_thresh_i = -40. * b2.mV$/;"	kind:variable	line:262
+v_thresh_i_str	Diehl&Cook_spiking_MNIST_Brian2.py	/^v_thresh_i_str = 'v>v_thresh_i'$/;"	kind:variable	line:298
+value_arr	weights/WeightReadout.py	/^        value_arr = np.nan * np.ones((n_e, n_e))$/;"	kind:variable	line:60
+value_arr	weights/WeightReadout.py	/^        value_arr = np.nan * np.ones((n_input, n_e))$/;"	kind:variable	line:58
+values	weights/WeightReadout.py	/^        values = np.asarray(value_arr)#.transpose()$/;"	kind:variable	line:72
+values	weights/WeightReadout.py	/^        values = np.asarray(value_arr)$/;"	kind:variable	line:76
+weight	Diehl&Cook_spiking_MNIST_Brian2.py	/^weight = {}$/;"	kind:variable	line:266
+weightMatrix	Diehl&Cook_spiking_MNIST_Brian2.py	/^        weightMatrix = get_matrix_from_file(weight_path + '..\/random\/' + connName + ending + '.npy')$/;"	kind:variable	line:364
+weightMatrix	Diehl&Cook_spiking_MNIST_Brian2.py	/^        weightMatrix = get_matrix_from_file(weight_path + connName + ending + '.npy')$/;"	kind:variable	line:400
+weight_path	Diehl&Cook_spiking_MNIST_Brian2.py	/^    weight_path = data_path + 'random\/'$/;"	kind:variable	line:227
+weight_path	Diehl&Cook_spiking_MNIST_Brian2.py	/^    weight_path = data_path + 'weights\/'$/;"	kind:variable	line:219
+weight_update_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    weight_update_interval = 100$/;"	kind:variable	line:250
+weight_update_interval	Diehl&Cook_spiking_MNIST_Brian2.py	/^    weight_update_interval = 20$/;"	kind:variable	line:247
+wmax_ee	Diehl&Cook_spiking_MNIST_Brian2.py	/^wmax_ee = 1.0$/;"	kind:variable	line:285
+xy	weights/WeightReadout.py	/^                xy = (x, y), xytext = (-0, 0),$/;"	kind:variable	line:163
