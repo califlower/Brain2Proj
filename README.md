@@ -33,3 +33,5 @@ Once your network has been trained you can do the following to test it:
 ## IMPORTANT NOTE
 
 Before running `face_to_img.py` make sure that **both** `training/data1.csv` and `testing/data1.csv` exist.
+
+In the event that you encounter numpy errors, it may be possible that you have run out of memory. Our testing was performed on an Ubuntu VM with 8 GB of RAM however for larger data sets you may need more memory.
