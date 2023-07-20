@@ -35,7 +35,7 @@ Pillow==9.3.0
 prompt-toolkit==1.0.14
 ptyprocess==0.5.1
 py-cpuinfo==3.0.0
-Pygments==2.2.0
+Pygments==2.15.0
 PyLEMS==0.4.9
 pyparsing==2.2.0
 python-dateutil==2.6.0
